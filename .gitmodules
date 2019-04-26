@@ -1,0 +1,3 @@
+[submodule "users-api"]
+	path = users-api
+	url = git://github.com/overdrive-hobbygoblins/users.git
